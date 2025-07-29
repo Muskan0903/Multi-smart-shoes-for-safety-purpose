@@ -1,5 +1,6 @@
 ## Multi-Smart Shoes for Safety Purpose
-This is working prototype 
+This is working prototype.
+
 A **safety-focused wearable system** embedded into footwear, designed to detect emergencies and **automatically notify trusted contacts** with the user's real-time location.  
 This IoT-enabled smart shoe integrates **GPS, GSM, Bluetooth, Ultrasonic, Pressure, and Touch Sensors** to ensure prompt and intelligent alerting through **SMS, phone call, and Bluetooth notifications**.
 
