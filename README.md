@@ -63,8 +63,3 @@ Ultrasonic Sensor + Buzzer: Provides obstacle detection and alerts via buzzer.
 #define BUZZER 3
 #define PRESSURE_SENSOR A0
 #define TOUCH_SENSOR 2
-
-
-
-
-
