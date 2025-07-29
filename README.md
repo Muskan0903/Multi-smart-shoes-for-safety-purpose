@@ -49,7 +49,7 @@ Bluetooth Module (HC-05): Sends GPS data to a connected smartphone.
 
 Ultrasonic Sensor + Buzzer: Provides obstacle detection and alerts via buzzer.
 
-## ⚙️ Pin Configuration
+## Pin Configuration
 
 ```cpp
 #define SIM_TX 8
