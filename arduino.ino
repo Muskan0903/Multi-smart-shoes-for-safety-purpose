@@ -190,7 +190,7 @@ void sendSMS(String lat, String lon) {
   delay(1000);
   sim800l.println("AT+CMGF=1"); // Text mode
   delay(1000);
-  sim800l.println("AT+CMGS=\"+918787282839\""); // Replace with your number
+  sim800l.println("AT+CMGS=\"+91xxxxxxxxxx\""); // Replace with your number
   delay(1000);
   sim800l.print("Emergency Location:\nLat: ");
   sim800l.print(lat);
@@ -207,7 +207,7 @@ void sendSMS(String lat, String lon) {
 
 // Make emergency call
 void makeCall() {
-  sim800l.println("ATD+918787282839;"); // Replace with your number
+  sim800l.println("ATD+91xxxxxxxxxx;"); // Replace with your number
   delay(20000); // Let it ring
   sim800l.println("ATH"); // Hang up
   Serial.println("Call made and ended.");
