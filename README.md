@@ -1,4 +1,4 @@
-## Multi-Smart Shoes for Safety Purpose
+## Multi Smart Shoes for Safety Purpose
 This is working prototype.
 
 A **safety-focused wearable system** embedded into footwear, designed to detect emergencies and **automatically notify trusted contacts** with the user's real-time location.  
